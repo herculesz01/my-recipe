@@ -1,0 +1,13 @@
+SZCMAWO	ฆ่าตัวตาย
+YLTEICZ	มีคนช่วยยิง
+SPEEDITUP	เร่งความเร็ว
+SLOWITDOWN	เกมลดความเร็ว
+XJVSNAJ	เวลา จะมีแค่ 0.00น – 12.00น
+OFVIAC	เวลาเป็น 21.00น
+SLOWITDOWN	เกมลดความเร็ว
+GHOSTTOWN	มีรถน้อยในเมือง
+YLTEICZ	รถบนถนนขับชนกันมั่ว
+CPKTNWT	ระเบิดรถรอบข้าง
+ZEIIVG	ไฟจราจรเป็นไฟเขียวหมด
+MUNASEF	เหมือนใช้ adrenaline อยู่
+FULLCLIP	กระสุนไม่จำกัด
